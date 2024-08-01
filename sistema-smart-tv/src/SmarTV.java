@@ -1,4 +1,4 @@
-public class SmarTV {
+public class SmarTv {
   boolean ligada=false;
   int canal=1;
   int volume = 25;
@@ -8,8 +8,8 @@ public class SmarTV {
     ligada=true;
 
  }
- public void Desligada() {
-  ligada=true;
+ public void desligar() {
+  ligada=false;
   
 }
 
