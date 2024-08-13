@@ -6,7 +6,7 @@ public class CaixaEletronico {
     if (valorSaque < saldo) 
     saldo = saldo - valorSaque;
 
-    System.out.println( "Seu saldo atua e " + "R$" + saldo);
+    System.out.println( "Seu saldo atual e " + "R$" + saldo);
     
   }
 }
