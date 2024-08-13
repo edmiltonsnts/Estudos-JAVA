@@ -12,4 +12,6 @@ else if (nota >= 5 && nota < 7)
 else
   System.out.println("Reprovado");
   }
+
+  
 }
